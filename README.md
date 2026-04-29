@@ -20,8 +20,7 @@ index.html • styles.css • script.js
 
 ## 🔗 Live Demo
 
-(Add your GitHub Pages link here)
-
+https://swapnilbharate.github.io/Quiz-Application/
 ---
 
 ⭐ Star the repo if you like it!
